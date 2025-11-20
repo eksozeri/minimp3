@@ -1,4 +1,4 @@
-minimp3
+minimp3 being edited by Efe :)
 ==========
 
 [![Build Status](https://travis-ci.org/lieff/minimp3.svg)](https://travis-ci.org/lieff/minimp3)
